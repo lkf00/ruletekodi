@@ -1,0 +1,3 @@
+<addon id="ruletekodi" name="Rulete Kodi" version="1.0" provider-name="lkf00">
+    <extension point="xbmc.python.plugin" library="default.py"/>
+</addon>
