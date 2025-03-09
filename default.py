@@ -3,7 +3,7 @@ import xbmcgui
 import sys
 
 # Ruta del archivo m3u
-m3u_file = 'https://github.com/tu_usuario/tu_repositorio/raw/main/archivo.m3u'
+m3u_file = 'https://github.com/lkf00/ruletekodi/blob/main/links.m3u'
 
 def listar_videos():
     with open(m3u_file, 'r') as f:
